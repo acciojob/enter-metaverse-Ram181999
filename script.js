@@ -2,6 +2,6 @@
 const para =document.getElementById("status");
 function changestring() {
 
-	para.innerHTML="<h1>Entered the Metaverse</h1>" ;
+	para.innerHTML="<h1>Entered Metaverse</h1>" ;
 	
 }
